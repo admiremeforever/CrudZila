@@ -4,6 +4,7 @@
 
 <web-app>
 	<display-name>Archetype Created Web Application</display-name>
+
 	<!-- configure dispatcher servlet -->
 	<servlet>
 		<servlet-name>spring</servlet-name>
@@ -15,6 +16,4 @@
 		<servlet-name>spring</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
-
-
 </web-app>
